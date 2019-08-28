@@ -25,6 +25,7 @@ public class Filme extends Application {
         
         stage.setScene(scene);
         stage.show();
+        stage.setTitle("Filme");
     }
 
     /**
